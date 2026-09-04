@@ -1,0 +1,11 @@
+.streamlit/secrets.toml
+chroma_db/
+overlapping.py
+rag_implementation.py
+sentencetransformer.py
+tempCodeRunnerFile.py
+test.json
+tfidf.py
+tst.py
+you_tubeapi_initialphase.py
+.vscode
